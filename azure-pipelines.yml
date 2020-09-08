@@ -14,7 +14,7 @@ variables:
   # containerRegistryDockerConnection: 'acr'
   # environment: 'aks.default'
 - name: imageRepository
-  value: 'SMSExternal'
+  value: 'smsexternal'
 - name: dockerfilePath
   value: '**/Dockerfile'
 - name: tag
